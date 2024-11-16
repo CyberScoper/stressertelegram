@@ -11,7 +11,7 @@ A Python-based stress testing tool that interacts with Telegram bots. This proje
 - [Configuration](#configuration)
 - [Flood Wait Handling](#flood-wait-handling)
 - [Notes on Usage](#notes-on-usage)
-- [License](#license)
+- [License](#license) 
 
 ## Introduction 📝
 
