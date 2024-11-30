@@ -1,5 +1,7 @@
 # StresserTelegram 🚀
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5baf7e73dd71460588bff76214339137)](https://app.codacy.com/gh/CyberScopeToday/stressertelegram?utm_source=github.com&utm_medium=referral&utm_content=CyberScopeToday/stressertelegram&utm_campaign=Badge_Grade)
+
 A Python-based stress testing tool that interacts with Telegram bots. This project allows users to send a large number of requests to a specified Telegram bot to test its resilience and performance under high load.
 
 ## Table of Contents 📑
