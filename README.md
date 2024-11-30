@@ -1,5 +1,7 @@
 # StresserTelegram 🚀
 
+[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/stressertelegram/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/stressertelegram)
+
 A Python-based stress testing tool that interacts with Telegram bots. This project allows users to send a large number of requests to a specified Telegram bot to test its resilience and performance under high load.
 
 ## Table of Contents 📑
