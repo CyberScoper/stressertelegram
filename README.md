@@ -1,6 +1,6 @@
 # StresserTelegram 🚀
 
-[![CodeFactor](https://www.codefactor.io/repository/github/cyberscopetoday/stressertelegram/badge)](https://www.codefactor.io/repository/github/cyberscopetoday/stressertelegram)
+[![CodeFactor](https://www.codefactor.io/repository/github/CyberScoper/stressertelegram/badge)](https://www.codefactor.io/repository/github/CyberScoper/stressertelegram)
 
 A Python-based stress testing tool that interacts with Telegram bots. This project allows users to send a large number of requests to a specified Telegram bot to test its resilience and performance under high load.
 
@@ -34,7 +34,7 @@ To use StresserTelegram, you need Python 3.7+ and the following dependencies ins
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CyberScopeToday/stressertelegram.git
+   git clone https://github.com/CyberScoper/stressertelegram.git
    cd stressertelegram
    ```
 
